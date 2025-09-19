@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-11T16:06:42 IST" name="Default suite" finished-at="2025-09-11T16:07:09 IST" duration-ms="27264">
+    <groups>
+    </groups>
+    <test started-at="2025-09-11T16:06:42 IST" name="Default test" finished-at="2025-09-11T16:07:09 IST" duration-ms="27264">
+      <class name="com.comcast.crm.Contacttest.DeleteContactTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.comcast.crm.Contacttest.DeleteContactTest@77c2494c]" started-at="2025-09-11T16:06:42 IST" name="configBS" finished-at="2025-09-11T16:06:42 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.comcast.crm.Contacttest.DeleteContactTest@77c2494c]" started-at="2025-09-11T16:06:42 IST" name="configBC" finished-at="2025-09-11T16:06:44 IST" duration-ms="2115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcast.crm.Contacttest.DeleteContactTest@77c2494c]" started-at="2025-09-11T16:06:44 IST" name="configBM" finished-at="2025-09-11T16:06:48 IST" duration-ms="4218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="deleteContactTest()[pri:0, instance:com.comcast.crm.Contacttest.DeleteContactTest@77c2494c]" started-at="2025-09-11T16:06:48 IST" name="deleteContactTest" finished-at="2025-09-11T16:07:04 IST" duration-ms="15757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContactTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcast.crm.Contacttest.DeleteContactTest@77c2494c]" started-at="2025-09-11T16:07:04 IST" name="configAM" finished-at="2025-09-11T16:07:09 IST" duration-ms="4837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.comcast.crm.Contacttest.DeleteContactTest@77c2494c]" started-at="2025-09-11T16:07:09 IST" name="configAC" finished-at="2025-09-11T16:07:09 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.comcast.crm.Contacttest.DeleteContactTest@77c2494c]" started-at="2025-09-11T16:07:09 IST" name="configAS" finished-at="2025-09-11T16:07:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.comcast.crm.Contacttest.DeleteContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
