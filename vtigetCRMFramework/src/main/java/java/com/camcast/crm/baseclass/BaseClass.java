@@ -19,6 +19,9 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
+/**
+ * @author Manikandan
+ */
 public class BaseClass {
 
 	public DataBaseUtility dbLib = new DataBaseUtility();
